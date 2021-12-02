@@ -14,7 +14,8 @@ body{
 #menu-top{
         margin: auto;
         max-width: 900px;
-        background-color: #252526
+        background-color: #252526;
+      
 
 }
 #menu-top ul{
@@ -42,13 +43,11 @@ body{
     color:lightgray;
 }
 
-#logo h1{
+.logo{
 
-    
-        text-align: center;
-        font-size: 3em;
-        color:#505152; 
-
+    min-width: 880px;
+    height: 200px;
+    padding: 10px;
     
 }
 
@@ -72,6 +71,7 @@ body{
      padding: 20px;
      margin: auto;
      max-width: 900px;
+     padding-bottom: 20px;
 }
 .cont-div-right{
    min-width: 220px;
@@ -93,18 +93,17 @@ body{
 
 }
 
-#rood{
 
-    background-color:red;
-    max-height: 30px;
-    max-width: 900px;
-    min-width: 900px;
-}
 
 
 .cont-div-2{
 
-    background-color: yellow;
+  
+    min-width: 900px;
+    max-width: 900px;
+    margin:auto; 
+    padding-top: 20px;
+   
 }
 
 
@@ -144,24 +143,30 @@ body{
 }
 .form-div{
 
-    background-color: red;
-    min-width:450px;
+    background-color:whitesmoke ;
+    min-width:520px;
     float: right;
-    border-radius: 20px;
-    border-radius: 10px;
+    height: 360px;
+    
 
 
 }
 .h1-login{
     text-align: center;
-    color:whitesmoke;
+    color:rgb(71, 70, 70);
     font-size: 1.1em;
 
 }
 .new-user{
 
  
- 
+ min-width: 380px;
+ max-width: 380px;
+ background-color: #252526;
+ float: left;
+ height: 360px;
+ color:whitesmoke;
+ text-align: center;
 
 
 }
@@ -176,4 +181,26 @@ body{
     text-align: justify;
     font-size: 1.1em;
 
+}
+.h3-login{
+    text-align: center;
+    color:whitesmoke;
+    font-size: 1.4em;
+
+}
+.cadastrar{ 
+
+    max-width: 100px;
+    min-width: 100px; 
+    margin:auto; 
+    padding: 5px;
+    color:rgb(71, 70, 70);
+    border-radius: 10px;
+    
+
+}
+.loli-menu{
+
+    width: 120px;
+    height: 120px;
 }
