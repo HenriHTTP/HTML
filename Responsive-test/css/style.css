@@ -1,0 +1,92 @@
+
+*{
+    margin: 0;
+    padding:0;
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+
+
+
+}
+body{
+    background-color:#141414 ;
+}
+
+
+#menu-1{
+    margin: auto;
+    background-color:#212020;
+    text-align: center;
+    max-width: 900px;
+
+
+
+
+}
+
+.logo h1{
+
+        font-size: 2em;
+        color:whitesmoke;
+        background-color:#212020;
+        padding: 20px;
+
+
+}
+
+.menu ul li {
+
+        text-decoration: none;
+        list-style: none;
+        display:inline-block ;
+        padding: 20px;
+   
+}
+
+.menu ul li a {
+
+    text-decoration: none;
+    padding: 20px;
+
+
+
+}
+
+.menu ul li a:hover{
+
+        color:whitesmoke;
+        background-color:darkblue;
+
+}
+
+.cont-index{
+
+    background-color: darkblue;
+    margin:auto;
+    max-width: 900px;
+    font-size: 0.9em;
+   
+
+
+}
+.cont-index p{
+
+    padding: 20px;
+    text-align: justify;
+
+    
+}
+.cont-index h1{
+    font-size:2em;
+    text-align:center;
+
+}
+.container-main{
+
+    margin: auto;
+    max-width: 900px;
+    margin-top: 20px;
+}
+
+/* remover classes e usar herença 

@@ -1,0 +1,240 @@
+*{
+    margin:0;
+    padding: 0;
+    font-size: 1.02em;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+body{
+
+    background-color:#ffff;
+
+}
+
+#menu-top{
+        margin: auto;
+        max-width: 900px;
+        background-color: #252526;
+      
+
+}
+#menu-top ul{
+
+    list-style: none;
+    text-decoration: none;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#menu-top ul li a{
+
+    list-style: none;
+    text-decoration: none;
+    padding:20px;
+    color:whitesmoke;
+    line-height: 50px;
+
+}
+
+#menu-top ul li a:hover{
+  
+    color:lightgray;
+}
+
+.logo{
+
+    min-width: 150px;
+    height: 45px;
+    padding: 10px;
+    
+    
+}
+
+#logo{
+    background-color: #252526;
+    max-width: 900px;
+    margin:auto; 
+
+}
+.cont-div{
+    min-width: 620px;
+    max-width: 620px;
+    padding:10px;
+    background-color:whitesmoke;
+    float: left;
+    color:rgb(71, 70, 70);
+    border-radius: 20px;
+   
+}
+.cont{
+     min-width: 900px;
+     padding: 20px;
+     margin: auto;
+     max-width: 900px;
+     
+}
+.cont-div-right{
+   min-width: 220px;
+    max-width: 220px;
+    padding: 10px;
+    background-color: whitesmoke;
+    float: right;
+    border-radius: 20px;
+    color:rgb(71, 70, 70);
+
+}
+
+.cont-div-right h1{
+    color:whitesmoke; 
+    text-align: center;
+    font-size:1.1em;
+
+    text-align: justify;
+
+}
+
+
+
+
+.cont-div-2{
+
+  
+    min-width: 900px;
+    max-width: 900px;
+    margin:auto; 
+    padding-top:100px;
+    padding-bottom:100px;
+   
+}
+
+
+.enviar{ 
+
+        max-width: 100px;
+        min-width: 100px; 
+        margin:auto; 
+        padding: 5px;
+        color:rgb(71, 70, 70);
+        border-radius: 10px;
+        
+
+}
+.user {
+
+    width: 300px;
+    height: 30px;
+    color:rgb(71, 70, 70);
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+   
+
+}
+
+.pass {
+
+    width: 300px;
+    height: 30px;
+    color:rgb(71, 70, 70);
+    border-radius: 10px;
+    text-align: center;
+   
+
+
+}
+.form-div{
+
+    background-color:whitesmoke ;
+    min-width:520px;
+    float: right;
+    height: 360px;
+    
+
+
+}
+.h1-login{
+    text-align: center;
+    color:rgb(71, 70, 70);
+    font-size: 1.1em;
+
+}
+.new-user{
+
+ 
+ min-width: 380px;
+ max-width: 380px;
+ background-color: #252526;
+ float: left;
+ height: 360px;
+ color:whitesmoke;
+ text-align: center;
+
+
+}
+
+.img-style{ 
+    margin:auto; 
+    float: left;
+
+}
+.text-index{
+    float:right; 
+    text-align: justify;
+    font-size: 1.1em;
+    color:rgb(71, 70, 70);
+
+}
+.h3-login{
+    text-align: center;
+    color:whitesmoke;
+    font-size: 1.4em;
+
+}
+.cadastrar{ 
+
+    max-width: 100px;
+    min-width: 100px; 
+    margin:auto; 
+    padding: 5px;
+    color:rgb(71, 70, 70);
+    border-radius: 10px;
+    
+
+}
+.loli-menu{
+
+    width: 120px;
+    height: 120px;
+}
+
+#rod{
+    margin-top: 700px;
+}
+.new-user2{
+
+ 
+
+    background-color: #252526;
+    color:whitesmoke;
+    text-align: center;
+    margin-top: auto;
+   
+   
+}
+   .cont-div-3{
+
+  
+    min-width: 900px;
+    max-width: 900px;
+    margin:auto; 
+    padding-top:100px;
+    padding-bottom:100px;
+   
+}
+.form-div2{
+
+    background-color:whitesmoke ;
+    
+}
